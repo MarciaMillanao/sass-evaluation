@@ -1,53 +1,7 @@
-h5{
-	font-family:$font_titulos;
-	font-weight:bold;
-	color:$color_titulos;
-	padding:$padding_titulos;
-	border-bottom:$border;
-	width:$width_titulo;
-}
-
-.border_titulo{
-	border-bottom:$border_bottom;
-	margin-bottom:$margin_botton_titulo;
-}
-
-i{
-	color:$color_i;
-}
-
-.fecha{
-	color:$color_fecha;
-	 line-height:0;
-}
-
-.titulos_seg{
-	color:$color_titulos_seg;
-	font-family:$font_p;
-	    line-height:0;
-}
-
-.titulos_segundo{
-	color:$color_titulos_seg;
-	font-family:$font_p;
-}
-
-.row{
-	padding:5px;
-}
-
-.popular{
-	position:absolute;
-}
-
-.boton_popular{
-	position:relative;
-}
-
 
 .navigation{
-	margin:10px;
-	}
+	margin:$margin_navigation;
+}
 
 .collapsible{
 	border-top:$none;
@@ -55,3 +9,9 @@ i{
 	border-left:$none;
 	box-shadow:$none;
 }
+
+.row_fotos{
+	margin:$margin_news;
+}
+
+

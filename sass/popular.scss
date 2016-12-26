@@ -1,0 +1,27 @@
+.popular{
+	position:$absolute;
+}
+
+.boton_popular{
+	position: $absolute;
+    float:left;
+    background: $background_boton;
+    z-index: 3;
+    top:$margin_boton_top;
+    padding:$padding_boton;
+}
+
+.row{
+	padding:$padding_row;
+}
+
+.div_popular{
+	position:relative;
+}
+
+.texto_popular{
+	position:absolute;
+	color:$color_principal;
+	top:$tex_popular;
+}
+

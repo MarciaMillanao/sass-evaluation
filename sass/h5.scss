@@ -1,0 +1,20 @@
+h5{
+	font-family:$font_titulos;
+	font-weight:bold;
+	color:$color_titulos;
+	padding:$padding_titulos;
+	border-bottom:$border;
+	width:$width_titulo;
+	font-size:$font-size_h5;
+}
+
+.border_titulo{
+	border-bottom:$border_bottom;
+	margin-bottom:$margin_botton_titulo;
+}
+
+.divider_titulos{
+	margin-top: $top_divider;
+	background-color:$background_boton;
+	margin-bottom:$margin_botton_titulo;
+}
