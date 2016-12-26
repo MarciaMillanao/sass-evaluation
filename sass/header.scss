@@ -1,0 +1,27 @@
+header{
+	border-bottom:$border;
+}
+
+h3{
+	color:$color_titulos;
+	font-family:$font_titulos;
+	font-weight:bold;
+	padding:$padding_news;
+	margin:$margin_news;
+}
+
+nav{
+	background-color:$color_principal;
+	box-shadow:$none;
+}
+
+nav{
+	ul{
+		a{
+			color:$color_titulos;
+			font-family:$font_titulos;
+			font-weight:bold;
+		}
+	}
+}
+
